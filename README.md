@@ -1,5 +1,9 @@
 # gf-todo-app-add-style
 
+技術書典7で配布した「Vue.jsとFirebaseで作るTodoアプリ製作記」のスタイルを加えたサンプルリポジトリです。
+
+URL:https://gf-todo-app-add-style.firebaseapp.com
+
 ## Project setup
 ```
 yarn install
